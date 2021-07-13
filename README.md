@@ -3,11 +3,17 @@
 First: git clone https://github.com/Clonethis/wokborek.git
 
 Second: npm install
--this will install 'node_modules' which are not included in resource package
+
+- this will install 'node_modules' which are not included in resource package
 
 Third: npm start
 
 - see if it works, if not call 911
+
+Also for implementation of css semantics
+
+- npm install semantic-ui-react semantic-ui-css / in project directory (in bash)
+- import 'semantic-ui-css/semantic.min.css' / should be in index.js for functionality
 
 # Getting Started with Create React App
 
