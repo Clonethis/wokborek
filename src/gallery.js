@@ -12,7 +12,7 @@ class Gallery extends React.Component {
     render() {
         return (
             <div>
-                <h1>stfu </h1>
+                <h1>test</h1>
             </div>
         );
     }
